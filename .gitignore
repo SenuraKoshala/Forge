@@ -1,0 +1,9 @@
+# Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Environment & Secrets
+.env
+API-key.txt
+*.log
